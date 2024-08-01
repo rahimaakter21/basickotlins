@@ -1,0 +1,4 @@
+package School
+
+class Staff {
+}

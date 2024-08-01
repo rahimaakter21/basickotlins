@@ -1,0 +1,4 @@
+package inheritances
+
+class business {
+}
